@@ -1,16 +1,59 @@
-# React + Vite
+# Madimran | Full Stack Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<div align="center">
+  <img src="public/logo.png" alt="Logo" width="80" />
+  <br />
+  <h3>
+    <a href="https://portfolio-dun-omega-55.vercel.app/">🔴 LIVE DEMO</a>
+  </h3>
+  <p>
+    My personal portfolio website showcasing my projects, skills, and experience.
+    <br />
+    Built with modern web technologies and a focus on clean, responsive design.
+  </p>
+</div>
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Overview
 
-## React Compiler
+This portfolio serves as a central hub for my work as a **Full Stack Developer** and **Mobile & Web Specialist**. It features a dynamic layout, interactive elements, and a clean UI to present my professional journey.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- **Responsive Design**: Fully optimized for mobile, tablet, and desktop.
+- **Modern UI**: Clean aesthetics with a custom design system.
+- **Project Showcase**: Detailed cards for my key projects (StyleIt, ProofPay, CrowdCheck).
+- **Interactive Elements**: Smooth scrolling, hover effects, and animations using Framer Motion.
+- **Contact Integration**: direct links to GitHub, LinkedIn, and Email.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **Frontend**: React, Vite
+- **Styling**: Vanilla CSS (Custom Architected), Framer Motion
+- **Icons**: React Icons (FontAwesome, SimpleIcons)
+- **Deployment**: Vercel
+
+## 🏃‍♂️ Running Locally
+
+1.  **Clone the repo**
+    ```bash
+    git clone https://github.com/Madimrann/portfolio.git
+    cd portfolio
+    ```
+
+2.  **Install dependencies**
+    ```bash
+    npm install
+    ```
+
+3.  **Start the dev server**
+    ```bash
+    npm run dev
+    ```
+
+4.  Open `http://localhost:5173` in your browser.
+
+---
+
+© 2026 Muhammad Adib Imran. All Rights Reserved.
