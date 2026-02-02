@@ -60,7 +60,7 @@ const Navbar = () => {
           left: 0;
           width: 100%;
           z-index: 1000;
-          padding: 1.1rem 0;
+          padding: 0.5rem 0;
           transition: all 0.3s ease;
           background: rgba(15, 23, 42, 0.95);
           backdrop-filter: blur(10px);
@@ -76,7 +76,7 @@ const Navbar = () => {
             align-items: center;
         }
         .nav-logo {
-          height: 28px;
+          height: 45px;
           width: auto;
           object-fit: contain;
           transition: transform 0.3s ease;
